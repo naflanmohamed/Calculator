@@ -1,0 +1,10 @@
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.csproj.AssemblyReference.cache
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.Form1.resources
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.Properties.Resources.resources
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.csproj.GenerateResource.cache
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.csproj.CoreCompileInputs.cache
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\bin\Debug\Q1_Calculator.exe.config
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\bin\Debug\Q1_Calculator.exe
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\bin\Debug\Q1_Calculator.pdb
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.exe
+E:\1.GCU CS\4th Semester\.Assignments - 0121-BSCS-22\Visual Programming\Assignment 3\0121-BSCS-22_Assignment_3\Q1_Calculator\Q1_Calculator\obj\Debug\Q1_Calculator.pdb
